@@ -1,4 +1,4 @@
-User-agent: *
+ser-agent: *
 Allow: /
 
-Sitemap: https://https://gopearl26.vercel.app/sitemap.xml
+Sitemap: https://gopearl26.vercel.app/sitemap.xml
