@@ -1,2 +1,0 @@
-# GoPearl
-Recruitment landing page
